@@ -16,14 +16,14 @@ Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con pr
 
 
 
-<table>
+<table align="center">
 <tr>
-<td style="padding-right: 20px;">
+<td align="center" style="padding-right: 20px;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=dark)
 
 </td>
-<td style="padding-left: 20px;">
+<td align="center" style="padding-left: 20px;">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamartinacolombo&layout=compact&theme=dark)
 
