@@ -14,7 +14,7 @@ Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con pr
 
 ---
 
-## 📊 GitHub Statistics
+
 
 <table>
 <tr>
@@ -30,6 +30,7 @@ Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con pr
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Linguaggi & Tecnologie
