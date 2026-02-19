@@ -20,10 +20,20 @@ Mi interessa lo sviluppo web e mi piace unire **programmazione, design e comunic
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giuliamartinacolombo&layout=compact&theme=tokyonight" />
-</p>
+<table align="center">
+<tr>
+<td align="center" style="padding-right: 20px;">
+
+[![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
+
+</td>
+<td align="center" style="padding-left: 20px;">
+
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=giuliamartinacolombo&type=languages)
+
+</td>
+</tr>
+</table>
 
 ---
 
