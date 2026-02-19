@@ -53,13 +53,4 @@ Mi interessa lo sviluppo web e mi piace unire **programmazione, design e comunic
 
 ---
 
-## 🚀 Attualmente interessata a
-
-- Game Development  
-- UI / UX Design  
-- Web Applications  
-- Cloud Technologies  
-
----
-
 ✨ *Studentessa, curiosa e in continua crescita.*
