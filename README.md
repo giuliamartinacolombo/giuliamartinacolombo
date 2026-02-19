@@ -1,35 +1,29 @@
-## 👋 Ciao, sono Giulia
+# 👋 Ciao, sono Giulia
 
 Sono una studentessa di **Informatica per la Comunicazione Digitale** presso l’**Università degli Studi di Milano (UniMi)**.  
+
 Mi interessa lo sviluppo web e mi piace unire **programmazione, design e comunicazione digitale** per creare progetti chiari e funzionali.
-
-📚 Attualmente sto approfondendo:
-- sviluppo web front-end e back-end
-- linguaggi di programmazione e tecnologie web
-- progettazione di interfacce e user experience
-
-🎯 Uno dei miei obiettivi è **avvicinarmi alla programmazione di videogiochi**, iniziando a costruire le basi necessarie per il game development.
-
-Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con progetti pratici.
 
 ---
 
+## 📚 Attualmente sto approfondendo
 
+- 🌐 sviluppo web front-end e back-end  
+- 💻 linguaggi di programmazione e tecnologie web  
+- 🎨 progettazione di interfacce e user experience  
 
-<table align="center">
-<tr>
-<td align="center" style="padding-right: 20px;">
+🎯 Uno dei miei obiettivi è **avvicinarmi alla programmazione di videogiochi**, iniziando a costruire le basi necessarie per il game development.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=tokyonight)](https://github.com/giuliamartinacolombo)
+✨ Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con progetti pratici.
 
-</td>
-<td align="center" style="padding-left: 20px;">
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamartinacolombo&layout=compact&theme=tokyonight)](https://github.com/giuliamartinacolombo)
+## 📊 GitHub Stats
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giuliamartinacolombo&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -49,5 +43,13 @@ Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con pr
 
 ---
 
-✨ *Studentessa, curiosa e in continua crescita.*
+## 🚀 Attualmente interessata a
 
+- Game Development  
+- UI / UX Design  
+- Web Applications  
+- Cloud Technologies  
+
+---
+
+✨ *Studentessa, curiosa e in continua crescita.*
