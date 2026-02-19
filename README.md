@@ -20,12 +20,12 @@ Sono sempre curiosa e motivata a migliorare, sia attraverso lo studio che con pr
 <tr>
 <td align="center" style="padding-right: 20px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giuliamartinacolombo&show_icons=true&theme=tokyonight)](https://github.com/giuliamartinacolombo)
 
 </td>
 <td align="center" style="padding-left: 20px;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamartinacolombo&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamartinacolombo&layout=compact&theme=tokyonight)](https://github.com/giuliamartinacolombo)
 
 </td>
 </tr>
